@@ -5,4 +5,4 @@ These include:
   sigadd.m
   ...
   
-My Homework typically will start with 'Homework#'
+My work typically will start with 'Homework#'
